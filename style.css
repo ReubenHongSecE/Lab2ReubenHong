@@ -1,0 +1,33 @@
+body {
+    background-color: #F0F2EF;
+}
+main {
+    background-color: #AFD5AA;
+}
+header {
+    color: #8C6057;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F0F2EF;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #5C5346;
+    text-align: center;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #5C5346;
+    text-align: center;
+}
+nav{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+    color: #F0F2EF;
+}
